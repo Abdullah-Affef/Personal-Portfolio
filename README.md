@@ -20,20 +20,8 @@ This is a professional portfolio website for Abdullah Ali Affef, a skilled front
 - **React** (v19.2.4) - Frontend framework
 - **Vite** - Build toolchain
 - **CSS3** - Styling with modern features
-- **Font Awesome** - Icon library
+- **React-icons** - Icon library
 
-## Getting Started
-
-1. Clone or download the project
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 ## Project Structure
 
@@ -49,28 +37,6 @@ portfolio/
 ├── package.json      # Project dependencies
 └── vite.config.js    # Vite configuration
 ```
-
-## Customization
-
-To customize this portfolio for Abdullah Ali Affef:
-
-1. Update the content in `App.jsx` with personal information
-2. Modify the skills and projects sections
-3. Update contact details
-4. Customize colors and styling in `App.css`
-5. Add personal images and assets
-
-## Deployment
-
-This portfolio can be deployed to any static hosting service such as:
-
-- Vercel
-- Netlify
-- GitHub Pages
-- Firebase Hosting
-
-Simply build the project with `npm run build` and deploy the `dist` folder.
-
 ## License
 
 This portfolio is for personal use by Abdullah Ali Affef.
